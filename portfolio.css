@@ -1,0 +1,82 @@
+h1{
+  text-align: center;
+  font: bolder;
+  font-variant: inherit;
+  font-size: 30px;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+.intro {
+  text-align: center;
+  margin-top: 50px;
+}
+.intro img {
+  width: 300px;
+  height: 300px;
+  border-radius: 200%;
+}
+p{
+  padding-left: 20px;
+  font-size: larger;
+  font-weight: 100;
+} body {
+  font-family: Arial, sans-serif;
+}
+.education {
+  text-align: center;
+  margin-top: 50px;
+}
+.education img {
+  width: 600px;
+  height: 400px;
+  border: 10px;
+}
+
+h2{
+  text-align: center;
+  font: bolder;
+  font-variant: inherit;
+  font-size: 40px;
+}
+p{
+  text-align: center;
+  font-size: 20px;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+.skills {
+  text-align: center;
+  margin-top: 50px;
+}
+.skill-box {
+  display: inline-block;
+  width: 150px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #af8f8f;
+  border-radius: 5px;
+}
+.skill-box img {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+.skill-name {
+  font-weight: bold;
+}
+.cv {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.section {
+  margin-bottom: 20px;
+}
+.section h2 {
+  margin-bottom: 10px;
+}
+.section p {
+  margin: 5px 0;
+}
